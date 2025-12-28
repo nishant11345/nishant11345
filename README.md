@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'M Nishant Ojha
 🔭 I’m currently working on: Building scalable web and mobile solutions.<br><br>🤝 I’m looking to collaborate on: Full-stack projects, startups, and product-based applications<br><br>💬 Ask me about: React, Next.js, Node.js, APIs, and full-stack development<br><br>⚡ Fun fact: I love turning ideas into real products that people actually use 🚀
 
 
